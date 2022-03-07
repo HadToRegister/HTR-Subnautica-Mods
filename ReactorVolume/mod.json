@@ -1,0 +1,12 @@
+{
+    "Id": "ReactorVolume_SN",
+    "DisplayName": "Reactor Volume SN",
+    "Author": "HTR",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "ReactorVolume.dll",
+    "VersionDependencies": {
+        "SMLHelper": "2.9.6"
+    },
+    "Game": "Subnautica"
+}
